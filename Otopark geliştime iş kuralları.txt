@@ -1,0 +1,78 @@
+
+---OTOPARK GELİŞTİRME İŞ KURALLARI---
+
+YAPILABİLECEK EK GELİŞTİRMELER:
+
+1-) Plaka sorgulayarak aracınız şu blok şu bölgededir denebilir.
+2-) Araç zaten otopark içindeyse YES/NO diyalog penceresi ile isterseniz çıkaralım denebilir.
+3-) Uzun süre geçip araç otoparktan alınmazsa ceza kesilebilir.
+4-) Admin sayfası hazırlanabilir.                                                   (YAPILDI 31,08,2018)
+5-) Admin sayfasından kullanıcı izinleri kontrol edilebilir.                                    
+5-) Fiyat güncellemesi admin sayfasında yapılabilir.                                (YAPILDI 03,09,2018)
+6-) Araba, Minibüs, Kamyon, Motorsiklet gibi farklı fiyat tarifesi yapılabilir.
+7-) Günlük, haftalık, aylık, yıllık raporlar oluşturulabilir.                       (YAPILDI 04,09,2018) (Günlük Hariç)
+
+YAPILABİLECEK İLERİ DÜZEY GELİŞTİRMELER:
+1-) Abonelik sistemi getirebilir.
+2-) Abonelere doğumgünü veya 3 ayda bir gibi ücretsiz gün verilebilir.
+
+YAPILMASI GEREKEN YERLER ???????????????????????:
+1-) ANASAYFA TASARIM                                                                (YAPILDI 04,09,2018)
+2-) KASA FORM TASARIM
+3-) ARAMA İŞLEM                                                                     (YAPILDI 05,09,2018)
+4-) KULLANICI GÜNCELLEME
+5-) İSTATİSTİKLER                                                                   (YAPILDI 04,09,2018)
+6-) GRAFİKLER                                                                       (YAPILDI 05,09,2018)
+7-) İLETİŞİM                                                                        (YAPILDI 05,09,2018)
+
+
+ÖNCELİKLİ YAPILACAKLAR:
+1-) Kasa formu düzenlenecek içindeki grouplistler kaldırılacak.                     (YAPILDI 31,08,2018)
+3-) Araç çıkış dedikten sonra ödeme alma sayfasına atılacak.                        (YAPILDI 31,08,2018)
+2-) Ödeme alma sayfası olarak kasa formuna atılacak.                                (YAPILDI 31,08,2018)
+3-) Ödeme başarılı bir şekilde alındıktan sonra araç çıkışı yapılmıştır denecek.    (YAPILDI 31,08,2018)
+4-) Yapılan ödemeler tarihleri ile birlikte veritabanına atılacak.                  (YAPILDI 31,08,2018)
+5-) Ödeme sayfasıında ödeme iptal edilebir olsun.                                   (YAPILDI 31,08,2018)
+6-) Ödeme iptali durumunda veritabanına ödeme bilgileri gidiyosa silinsin.          (YAPILDI 31,08,2018)
+7-) Veritabanından istenildiğinde kasa raporu çekilebilecek.                        (YAPILDI 03,09,2018)
+8-) Bu raporlar grafikler ile desteklenebilir.                                      (YAPILDI 04,09,2018)
+
+9-) Araçların süreleri 24 saat sonra sıfırlanıyo ona bak ve düzelt.
+10-) Anasayfa dizaynını düzelt 6 sekme yerine 4 sekme yapılabilir.                  (KONTROL EDİLDİ 31,08,2018)
+11-) Kayıtlı plakayı tekrar kayıt edebiliyoruz bu sorunu çöz.                       (YAPILDI 31,08,2018)
+12-) Fiyatları artık veritabanından al.                                             (YAPILDI 31,08,2018)
+
+13-) Admin Sayfası tasarlanabilir.                                                  (YAPILDI 31,08,2018)
+14-) Kullanıcı ekleme, silme, düzenleme işlemleri burdan yapılıcak.                 (YAPILDI 03,09,2018)
+15-) Kullanıcı şifre güncelleme yapılabilir.                                        (YAPILDI 03,09,2018)                           
+16-) Fiyat listesi düzenleme burdan yapılacak.                                      (YAPILDI 03,09,2018)
+17-) Fiyat listesi için veritabanı tablosu oluşturulacak.                           (YAPILDI 31,08,2018)
+18-) Fiyat düzenlemeleri veritabanı güncellemesi ile olacak.                        (YAPILDI 03,09,2018)
+19-) Rapor alma işlemleri yapılabilir.                                              (YAPILDI 04,09,2018)
+
+20-) Sisteme giriş yapan kullanıcının ismi anasayfanın üst köşesinde yazabilir.
+
+21-) İstatistik sayfası hazırlanacak.                                               (YAPILDI 03,09,2018)
+22-) Aylık park eden araç sayısı                                                    (YAPILDI 03,09,2018)
+23-) Aylık araçlar kaç saat kalmış                                                  (YAPILDI 03,09,2018)
+24-) Aylık hangi tarifeler kaç kere kullanılmış.                                    (YAPILDI 03,09,2018)
+25-) Aylık kazanılan ücret                                                          (YAPILDI 03,09,2018)
+26-) Yıllık kazanılan ücret                                                         (YAPILDI 03,09,2018)
+27-) Yıllık giren araç sayısı öğrenebilecek.                                        (YAPILDI 04,09,2018)    
+28-) Aylık giren araç sayısı öğrenebilecek.                                         (YAPILDI 04,09,2018)
+29-) Aya göre en çok park eden kişinin adı ve plakası                               (YAPILDI 04,09,2018)
+
+30-) Kullanıcı güncellemiyor kontrol et.
+
+31-) Açılış animasyonu oluştur.                                                     (YAPILDI 03,09,2018)
+32-) Animasyona 3 saniye süre ver.                                                  (YAPILDI 03,09,2018)
+33-) İletişim formu oluştur.                                                        (YAPILDI 04,09,2018)
+34-) İletişim formunu giriş sayfasından ulaşılabilir yap.                           (YAPILDI 04,09,2018)
+
+35-) Arama Sayfası oluştur.                                                         (YAPILDI 04,09,2018)
+36-) Plaka ile arama kontrol et.                                                    (YAPILDI 04,09,2018)
+37-) Kontrol sonucu araç otoparkta değilse uyarı ver.
+38-) Eğer otoparkta ise aracınız şuradadır diye mesaj ver.                          
+
+
+
